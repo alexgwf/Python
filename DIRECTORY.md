@@ -106,7 +106,7 @@
   * [Molecular Chemistry](https://github.com/TheAlgorithms/Python/blob/master/conversions/molecular_chemistry.py)
   * [Octal To Decimal](https://github.com/TheAlgorithms/Python/blob/master/conversions/octal_to_decimal.py)
   * [Prefix Conversions](https://github.com/TheAlgorithms/Python/blob/master/conversions/prefix_conversions.py)
-  * [Roman To Integer](https://github.com/TheAlgorithms/Python/blob/master/conversions/roman_to_integer.py)
+  * [Roman Numerals](https://github.com/TheAlgorithms/Python/blob/master/conversions/roman_numerals.py)
   * [Temperature Conversions](https://github.com/TheAlgorithms/Python/blob/master/conversions/temperature_conversions.py)
   * [Weight Conversion](https://github.com/TheAlgorithms/Python/blob/master/conversions/weight_conversion.py)
 
@@ -499,6 +499,7 @@
   * [Minimum Cut](https://github.com/TheAlgorithms/Python/blob/master/networking_flow/minimum_cut.py)
 
 ## Neural Network
+  * [2 Hidden Layers Neural Network](https://github.com/TheAlgorithms/Python/blob/master/neural_network/2_hidden_layers_neural_network.py)
   * [Back Propagation Neural Network](https://github.com/TheAlgorithms/Python/blob/master/neural_network/back_propagation_neural_network.py)
   * [Convolution Neural Network](https://github.com/TheAlgorithms/Python/blob/master/neural_network/convolution_neural_network.py)
   * [Perceptron](https://github.com/TheAlgorithms/Python/blob/master/neural_network/perceptron.py)
@@ -744,6 +745,12 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_097/sol1.py)
   * Problem 099
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_099/sol1.py)
+  * Problem 101
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_101/sol1.py)
+  * Problem 102
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_102/sol1.py)
+  * Problem 107
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_107/sol1.py)
   * Problem 112
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_112/sol1.py)
   * Problem 113
@@ -758,6 +765,8 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_125/sol1.py)
   * Problem 129
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_129/sol1.py)
+  * Problem 135
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_135/sol1.py)
   * Problem 173
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_173/sol1.py)
   * Problem 174
